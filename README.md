@@ -13,3 +13,5 @@ You can choose from the following options:
 - Uppercase characters
 - Numbers
 - Symbols
+
+This project was made as a submission for hackclub
