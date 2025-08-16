@@ -14,5 +14,5 @@ You can choose from the following options:
 - Numbers
 - Symbols
 
----
-*This project was made as a submission for hackclub arcade*
+# 
+*This project was made as a submission for hackclub arcade event*
